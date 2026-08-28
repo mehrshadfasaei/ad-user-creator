@@ -1,0 +1,4 @@
+FirstName,LastName,SamAccountName,OU,Groups,JobTitle,Department
+Ali,Rezaei,ali.rezaei,"OU=Employees,OU=Tehran,DC=company,DC=local",IT-Staff;VPN-Users,Network Technician,IT
+Sara,Ahmadi,sara.ahmadi,"OU=Employees,OU=Tehran,DC=company,DC=local",Sales-Team,Sales Representative,Sales
+Reza,Karimi,reza.karimi,"OU=Employees,OU=Tehran,DC=company,DC=local",IT-Staff,Support Engineer,IT
